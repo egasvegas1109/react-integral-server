@@ -1,15 +1,12 @@
 ﻿<Properties StartupConfiguration="{68FEE10F-33BF-4E7B-8139-49AB5487D652}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.react-integral-server PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="react-integral-server/Controllers/IntegralSolution.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="react-integral-server/Program.cs">
     <Files>
-      <File FileName="react-integral-server/Calculate/CalculateIntegral.cs" Line="16" Column="26" />
-      <File FileName="react-integral-server/Controllers/IntegralSolution.cs" Line="5" Column="1" />
+      <File FileName="react-integral-server/Controllers/IntegralSolution.cs" Line="5" Column="27" />
+      <File FileName="react-integral-server/Program.cs" Line="31" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,9 +14,9 @@
           <Node name="react-integral-server" expanded="True">
             <Node name="react-integral-server" expanded="True">
               <Node name="Calculate" expanded="True" />
-              <Node name="Controllers" expanded="True">
-                <Node name="IntegralSolution.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -29,4 +26,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
