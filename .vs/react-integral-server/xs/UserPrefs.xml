@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{68FEE10F-33BF-4E7B-8139-49AB5487D652}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.react-integral-server PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="react-integral-server/Controllers/IntegralSolution.cs">
+    <Files>
+      <File FileName="react-integral-server/Calculate/CalculateIntegral.cs" Line="11" Column="1" />
+      <File FileName="react-integral-server/Controllers/IntegralSolution.cs" Line="14" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="react-integral-server" expanded="True">
+            <Node name="react-integral-server" expanded="True">
+              <Node name="Calculate" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="IntegralSolution.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
