@@ -8,8 +8,8 @@
   <MonoDevelop.Ide.ItemProperties.react-integral-server PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="react-integral-server/Controllers/IntegralSolution.cs">
     <Files>
-      <File FileName="react-integral-server/Calculate/CalculateIntegral.cs" Line="11" Column="1" />
-      <File FileName="react-integral-server/Controllers/IntegralSolution.cs" Line="14" Column="21" />
+      <File FileName="react-integral-server/Calculate/CalculateIntegral.cs" Line="16" Column="26" />
+      <File FileName="react-integral-server/Controllers/IntegralSolution.cs" Line="5" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
