@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using react_integral_server.Calculate;
+using react_integral_server.Models;
 
 namespace react_integral_server.Controllers;
 
@@ -9,12 +10,12 @@ namespace react_integral_server.Controllers;
 public class IntegralSolution : ControllerBase
 {
     [HttpPost("calculate")]
-    public ActionResult<double> Calculate([FromHeader] double upperInt, [FromHeader] double lowerInt, [FromHeader] double stepInt)
+    public ActionResult<double> Calculate([FromBody] IntegralInput integralInput)
     {
         double result;
         CalculateIntegral calculate = new CalculateIntegral();
-        result = calculate.Calculate(upperInt,lowerInt,stepInt);
-        return Ok(result);
+        result = calculate.Calculate(integralInput.B, integralInput.A, integralInput.N);
+        return result;
     }
 }
 
