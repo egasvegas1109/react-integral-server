@@ -1,11 +1,16 @@
 ﻿<Properties StartupConfiguration="{68FEE10F-33BF-4E7B-8139-49AB5487D652}|Default">
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="react-integral-server/Controllers/IntegralSolution.cs">
+  <MonoDevelop.Ide.ItemProperties.react-integral-server PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="react-integral-server/Models/IntegralInput.cs">
     <Files>
       <File FileName="react-integral-server/Controllers/IntegralSolution.cs" Line="7" Column="1" />
       <File FileName="react-integral-server/Calculate/CalculateIntegral.cs" Line="7" Column="10" />
-      <File FileName="react-integral-server/Models/IntegralInput.cs" Line="8" Column="35" />
+      <File FileName="react-integral-server/Models/IntegralInput.cs" Line="7" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,9 +18,7 @@
           <Node name="react-integral-server" expanded="True">
             <Node name="react-integral-server" expanded="True">
               <Node name="Calculate" expanded="True" />
-              <Node name="Controllers" expanded="True">
-                <Node name="IntegralSolution.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
             </Node>
@@ -27,9 +30,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.react-integral-server PreferredExecutionTarget="/Applications/Safari.app" />
 </Properties>
