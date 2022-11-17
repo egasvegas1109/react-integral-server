@@ -1,30 +1,25 @@
 ﻿<Properties StartupConfiguration="{68FEE10F-33BF-4E7B-8139-49AB5487D652}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="react-integral-server/Properties/launchSettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="react-integral-server/Calculate/CalculateIntegral.cs">
     <Files>
-      <File FileName="react-integral-server/Controllers/IntegralSolution.cs" Line="20" Column="2" />
-      <File FileName="react-integral-server/Calculate/CalculateIntegral.cs" Line="7" Column="10" />
+      <File FileName="react-integral-server/Controllers/IntegralSolution.cs" Line="22" Column="1" />
+      <File FileName="react-integral-server/Calculate/CalculateIntegral.cs" Line="12" Column="1" />
       <File FileName="react-integral-server/Models/IntegralInput.cs" Line="6" Column="24" />
-      <File FileName="react-integral-server/Dockerfile" Line="10" Column="1" />
+      <File FileName="react-integral-server/Dockerfile" Line="16" Column="1" />
       <File FileName="react-integral-server/appsettings.json" Line="6" Column="6" />
       <File FileName="react-integral-server/Properties/launchSettings.json" Line="12" Column="31" />
+      <File FileName="react-integral-server/Program.cs" Line="7" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="react-integral-server" expanded="True">
             <Node name="react-integral-server" expanded="True">
-              <Node name="Calculate" expanded="True" />
+              <Node name="Calculate" expanded="True">
+                <Node name="CalculateIntegral.cs" selected="True" />
+              </Node>
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True">
-                <Node name="launchSettings.json" selected="True" />
-              </Node>
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -34,5 +29,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.react-integral-server PreferredExecutionTarget="/Applications/Safari.app" />
 </Properties>
