@@ -25,3 +25,8 @@
 /Users/egasvegas/Projects/react-integral-server/react-integral-server/obj/Debug/net6.0/react-integral-server.pdb
 /Users/egasvegas/Projects/react-integral-server/react-integral-server/obj/Debug/net6.0/react-integral-server.genruntimeconfig.cache
 /Users/egasvegas/Projects/react-integral-server/react-integral-server/obj/Debug/net6.0/ref/react-integral-server.dll
+/Users/egasvegas/Projects/react-integral-server/react-integral-server/obj/Debug/net6.0/staticwebassets/msbuild.react-integral-server.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/egasvegas/Projects/react-integral-server/react-integral-server/obj/Debug/net6.0/staticwebassets/msbuild.build.react-integral-server.props
+/Users/egasvegas/Projects/react-integral-server/react-integral-server/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.react-integral-server.props
+/Users/egasvegas/Projects/react-integral-server/react-integral-server/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.react-integral-server.props
+/Users/egasvegas/Projects/react-integral-server/react-integral-server/obj/Debug/net6.0/staticwebassets.pack.json

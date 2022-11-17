@@ -2,15 +2,17 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.react-integral-server PreferredExecutionTarget="/Applications/Safari.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="react-integral-server/Models/IntegralInput.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="react-integral-server/Properties/launchSettings.json">
     <Files>
-      <File FileName="react-integral-server/Controllers/IntegralSolution.cs" Line="7" Column="1" />
+      <File FileName="react-integral-server/Controllers/IntegralSolution.cs" Line="20" Column="2" />
       <File FileName="react-integral-server/Calculate/CalculateIntegral.cs" Line="7" Column="10" />
-      <File FileName="react-integral-server/Models/IntegralInput.cs" Line="7" Column="22" />
+      <File FileName="react-integral-server/Models/IntegralInput.cs" Line="6" Column="24" />
+      <File FileName="react-integral-server/Dockerfile" Line="10" Column="1" />
+      <File FileName="react-integral-server/appsettings.json" Line="6" Column="6" />
+      <File FileName="react-integral-server/Properties/launchSettings.json" Line="12" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,7 +22,9 @@
               <Node name="Calculate" expanded="True" />
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -30,4 +34,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.react-integral-server PreferredExecutionTarget="/Applications/Safari.app" />
 </Properties>
