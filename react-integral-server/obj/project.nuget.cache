@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mce5n9t+Una+KEVWlNoQSiw39YmSdivQVG734gibPWvpVIzKDp8925DsiJJvTjQyhaLknDNjpVr5+o2iBCyYOA==",
+  "dgSpecHash": "I1nRPLv1LkCgeFI7Zbd9KNb9pyrBuet53JEfz8F/ccTLkxYtfgvo9NL6quJfZc1WdsBTFdMsJ5M20iVXxBz5LQ==",
   "success": true,
   "projectFilePath": "/Users/egasvegas/Projects/react-integral-server/react-integral-server/react-integral-server.csproj",
   "expectedPackageFiles": [
@@ -9,10 +9,7 @@
     "/Users/egasvegas/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "/Users/egasvegas/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "/Users/egasvegas/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "/Users/egasvegas/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
-    "/Users/egasvegas/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
-    "/Users/egasvegas/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.11/microsoft.netcore.app.host.osx-arm64.6.0.11.nupkg.sha512",
-    "/Users/egasvegas/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+    "/Users/egasvegas/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
   "logs": []
 }
